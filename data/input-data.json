@@ -1,0 +1,101 @@
+{
+  "name": "Basavaraja S G",
+  "role": "Frontend & Mobile Developer (React.js / React Native)",
+  "phone": "+91 8105895186",
+  "email": "basavarajsg59@gmail.com",
+  "city": "Bengaluru, India",
+  "linkedin": "basavaraja",
+  "github": "basavaraj59",
+  "objective": "Frontend and Mobile Developer with 3 years of experience building production-grade web and mobile applications using React.js and React Native. Experienced in designing scalable frontend architectures, offline-first mobile applications, real-time systems using WebSockets, and analytics-driven product improvements. Delivered cross-platform applications deployed to both Play Store and App Store with strong focus on performance, reliability, and user experience.",
+  "skills": [
+    {
+      "category": "Languages",
+      "items": "JavaScript, TypeScript, HTML5, CSS3"
+    },
+    {
+      "category": "Frontend Frameworks",
+      "items": "React.js, React Native, Next.js"
+    },
+    {
+      "category": "State Management",
+      "items": "Redux, Context API"
+    },
+    {
+      "category": "Mobile Development",
+      "items": "Cross-platform mobile apps, Push Notifications, Offline-first architecture, SQLite storage"
+    },
+    {
+      "category": "API & Integrations",
+      "items": "REST APIs (100+ endpoints), WebSockets, Firebase (Auth, Cloud Messaging, Analytics), Google Maps SDK, Razorpay Payment Gateway"
+    },
+    {
+      "category": "Cloud & Analytics",
+      "items": "AWS S3, AWS CloudFront, AWS API Gateway, Firebase, BigQuery, Looker Studio"
+    },
+    {
+      "category": "Mobile Tools",
+      "items": "Android Studio, Xcode, Expo, React Navigation"
+    },
+    {
+      "category": "Tools",
+      "items": "Git, GitHub, Postman, npm, SQLite, EmailJS, Looker Studio, Trello"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Frontend & Mobile Developer",
+      "company": "VisionMindz SoftTech Private Limited",
+      "startDate": "Sep 2023",
+      "endDate": "Present",
+      "description": "Building scalable web and mobile applications using React.js and React Native with focus on performance optimization, offline-first architecture, and real-time communication systems.",
+      "highlights": [
+        "Delivered 5+ cross-platform mobile applications for Android and iOS using React Native, successfully deployed to both Google Play Store and Apple App Store.",
+        "Enabled seamless application usage in low-connectivity environments by implementing offline-first architecture using SQLite-based local storage and asset caching.",
+        "Enabled data-driven product decisions by integrating Firebase Analytics with BigQuery to track user engagement and campaign performance.",
+        "Connected frontend applications to backend systems by integrating 100+ REST API endpoints supporting authentication, analytics, and content management.",
+        "Engineered real-time healthcare queue management system using WebSockets enabling live queue visibility across TV displays and mobile devices.",
+        "Improved medication adherence features by developing SQLite-based notification scheduling and background reminders for healthcare applications.",
+        "Enabled secure online consultation payments by integrating Razorpay payment gateway into healthcare mobile platforms.",
+        "Improved application stability and compatibility by migrating legacy React Native applications to newer versions and resolving platform issues.",
+        "Built marketing analytics web application calculating ROAS, CPM, CTR, impressions, conversions, and revenue metrics for campaign performance analysis.",
+        "Improved application performance by ~30% through caching and optimized component rendering.",
+        "Managed production builds, release pipelines, and deployments for mobile applications on both Play Store and App Store.",
+        "Integrated Google Maps SDK to enable location-based features including clinic discovery and navigation within healthcare applications.",
+        "Designed and implemented responsive UI components from Figma designs ensuring consistent user experience across mobile and web platforms."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "BLDEA’s VP Dr PG Halakatti College of Engineering & Technology",
+      "date": "2018 - 2022"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "name": "Kannada",
+      "proficiency": "Native"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "Professional Working Proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Java Full Stack Development Certification",
+      "institution": "JSpiders",
+      "date": "2023"
+    },
+    {
+      "title": "React JS Developer Guide Certification",
+      "institution": "Udemy",
+      "date": "2023"
+    }
+  ]
+}
